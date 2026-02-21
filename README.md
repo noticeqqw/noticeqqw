@@ -1,4 +1,4 @@
-# 👋 Привет, я Никита (noticeqqw) — Java Developer
+# 👋 Привет, я Никита
 
 ![Profile views](https://komarev.com/ghpvc/?username=noticeqqw&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/noticeqqw?style=social)
@@ -41,15 +41,7 @@
 
 ---
 
-## Последние проекты
-
----
-
-## Контакты
-
----
-
-<p align="center">✨ Code. Learn. Improve. Repeat. ✨</p>
+<p align="center"> Code. Learn. Improve. Repeat. </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="300"/>
