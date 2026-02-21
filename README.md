@@ -16,20 +16,20 @@
 
 ---
 
-## 🛠 Технологии и инструменты
+## Технологии и инструменты
 
 | Категория | Стек |
 |------------|------|
-| 🧩 Backend | Java • Spring Boot • Hibernate • Maven |
-| 💾 Database | PostgreSQL • MySQL • MongoDB • Redis |
-| ☁️ DevOps | Docker • GitHub Actions |
-| 🧠 Other | REST API • WebSockets • Microservices |
+| Backend | Java • Spring Boot • Hibernate • Maven |
+| Database | PostgreSQL • MySQL • MongoDB • Redis |
+| DevOps | Docker • GitHub Actions |
+| Other | REST API • WebSockets • Microservices |
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,vscode,maven,docker,postgresql,mysql,redis,git,github,linux&perline=6)](https://skillicons.dev)
 
 ---
 
-## ⚡️ GitHub статистика
+## GitHub статистика
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=noticeqqw&theme=tokyonight" />
@@ -41,15 +41,11 @@
 
 ---
 
-## 🧰 Последние проекты
+## Последние проекты
 
 ---
 
-## 📫 Контакты
-
-📧 Email: [ваш.email@example.com](mailto:ваш.email@example.com)  
-💬 Telegram: [@ваш_ник](https://t.me/ваш_ник)  
-🌐 Portfolio: [your-site.dev](https://your-site.dev)
+## Контакты
 
 ---
 
