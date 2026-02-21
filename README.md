@@ -1,4 +1,4 @@
-# 👋 Привет, я [Никита (noticeqqw)] — Java Developer
+# 👋 Привет, я Никита (noticeqqw) — Java Developer
 
 ![Profile views](https://komarev.com/ghpvc/?username=noticeqqw&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/noticeqqw?style=social)
@@ -24,6 +24,8 @@
 | 💾 Database | PostgreSQL • MySQL • MongoDB • Redis |
 | ☁️ DevOps | Docker • GitHub Actions |
 | 🧠 Other | REST API • WebSockets • Microservices |
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,vscode,maven,docker,postgresql,mysql,redis,git,github,linux&perline=6)](https://skillicons.dev)
 
 ---
 
