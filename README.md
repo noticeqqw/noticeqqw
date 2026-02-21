@@ -1,8 +1,8 @@
 # 👋 Привет, я [Никита (noticeqqw)] — Java Developer
 
-![Profile views](https://komarev.com/ghpvc/?username=ВАШ_НИК&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/ВАШ_НИК?style=social)
-![GitHub stars](https://img.shields.io/github/stars/ВАШ_НИК?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=noticeqqw&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/noticeqqw?style=social)
+![GitHub stars](https://img.shields.io/github/stars/noticeqqw?style=social)
 
 ---
 
@@ -30,12 +30,12 @@
 ## ⚡️ GitHub статистика
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ВАШ_НИК&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=noticeqqw&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=noticeqqw&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=ВАШ_НИК&theme=react-dark" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=noticeqqw&theme=react-dark" />
 </p>
 
 ---
