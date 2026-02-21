@@ -25,7 +25,7 @@
 | DevOps | Docker • GitHub Actions |
 | Other | REST API • WebSockets • Microservices |
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,vscode,maven,docker,postgresql,mysql,redis,git,github,linux&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,springboot,hibernate,vscode,maven,docker,postgresql,mysql,redis,git,github,linux,postman&perline=6)](https://skillicons.dev)
 
 ---
 
