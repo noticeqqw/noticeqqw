@@ -1,30 +1,59 @@
-# Hi 👋, I'm Nikita
+# 👋 Привет, я [Никита (noticeqqw)] — Java Developer
 
-### Python backend developer
+![Profile views](https://komarev.com/ghpvc/?username=ВАШ_НИК&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/ВАШ_НИК?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ВАШ_НИК?style=social)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noticeqqw&label=Profile views&color=0e75b6&style=flat" alt="noticeqqw" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noticeqqw" alt="noticeqqw" /></a> </p>
+## О себе
 
-- 🔭 I'm currently working on **Building backend services in Python, developing REST APIs, and working with databases.**
+Увлекаюсь разработкой на Java и современными технологиями экосистемы JVM.
+Люблю backend-разработку и создание гибких серверных решений.
+Занимаюсь созданием микросервисных приложений, Telegram-ботов и web API.
+**Изучаю Spring Boot, Docker, Kafka.**
+Люблю писать чистый, тестируемый и надёжный код.
 
-- 🌱 I'm currently learning **Advanced Python, backend frameworks (FastAPI, Django), SQL optimization, and basic DevOps practices.**
+---
 
-- 💬 Ask me about **Python backend development, REST APIs, databases, and application architecture basics.**
+## 🛠 Технологии и инструменты
 
-- ⚡ Fun fact **I enjoy turning complex problems into clean and maintainable backend solutions.**
+| Категория | Стек |
+|------------|------|
+| 🧩 Backend | Java • Spring Boot • Hibernate • Maven |
+| 💾 Database | PostgreSQL • MySQL • MongoDB • Redis |
+| ☁️ DevOps | Docker • GitHub Actions |
+| 🧠 Other | REST API • WebSockets • Microservices |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/noticeqqw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="noticeqqw" height="30" width="40" /></a>
+---
+
+## ⚡️ GitHub статистика
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ВАШ_НИК&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/openresty" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="openresty" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a></p>
+<p align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=ВАШ_НИК&theme=react-dark" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noticeqqw&show_icons=true&locale=en&layout=compact" alt="noticeqqw" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noticeqqw&show_icons=true&locale=en" alt="noticeqqw" /></p>
+## 🧰 Последние проекты
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noticeqqw&" alt="noticeqqw" /></p>
+---
 
+## 📫 Контакты
+
+📧 Email: [ваш.email@example.com](mailto:ваш.email@example.com)  
+💬 Telegram: [@ваш_ник](https://t.me/ваш_ник)  
+🌐 Portfolio: [your-site.dev](https://your-site.dev)
+
+---
+
+<p align="center">✨ Code. Learn. Improve. Repeat. ✨</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="300"/>
+</p>
