@@ -33,7 +33,7 @@
   
   <h3>Top Projects</h3>
   <a href="https://github.com/noticeqqw/task_time_tracker_api"><img src="https://img.shields.io/badge/task_time_tracker_api-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A REST API for employee time tracking — built with Java, Spring Boot, and enough tests to sleep soundly after a deploy.<br>
-  <a href="https://github.com/noticeqqw/notes-service"><img src="https://img.shields.io/badge/notes%service-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A Discord bot that manages my server better than Me<br>
+  <a href="https://github.com/noticeqqw/notes-service"><img src="https://img.shields.io/badge/notes_service-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A Discord bot that manages my server better than Me<br>
   <a href="https://github.com/Synaptara/QNDOCS"><img src="https://img.shields.io/badge/Qn%20Docs-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; RAG-based AI to read text files for me, because reading is hard.
 
   
