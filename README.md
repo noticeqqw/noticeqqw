@@ -89,6 +89,7 @@
         <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white">
         <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white">
+        <img src="https://img.shields.io/badge/Postgresql-000000?style=for-the-badge&logo=Postgresql&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/API_Integration-000000?style=for-the-badge&logoColor=white">
       </td>
