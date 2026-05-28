@@ -33,8 +33,8 @@
   
   <h3>Top Projects</h3>
   <a href="https://github.com/noticeqqw/task_time_tracker_api"><img src="https://img.shields.io/badge/task_time_tracker_api-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A REST API for employee time tracking — built with Java, Spring Boot, and enough tests to sleep soundly after a deploy.<br>
-  <a href="https://github.com/noticeqqw/notes-service"><img src="https://img.shields.io/badge/notes_service-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A Discord bot that manages my server better than Me<br>
-  <a href="https://github.com/Synaptara/QNDOCS"><img src="https://img.shields.io/badge/Qn%20Docs-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; RAG-based AI to read text files for me, because reading is hard.
+  <a href="https://github.com/noticeqqw/notes-service"><img src="https://img.shields.io/badge/notes_service-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A JWT-secured REST API for managing personal notes with tag support. Create, update, filter — your thoughts, organized. Finally.<br>
+  <a href="https://github.com/noticeqqw/api_cinema-TCP-FTP-API"><img src="https://img.shields.io/badge/api_cinema-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A multi-client TCP file server with a REST API layer on top. Two channels, one purpose: move files around without breaking a sweat.
 
   
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
