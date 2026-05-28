@@ -70,19 +70,6 @@
   <table align="center" style="background: transparent; border: none;">
     <tr>
       <td align="right" valign="middle" style="padding-right: 20px;">
-        <strong>Frontend</strong>
-      </td>
-      <td align="left" valign="middle">
-        <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=white">
-        <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
-        <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white">
-      </td>
-    </tr>
-    <tr>
-      <td align="right" valign="middle" style="padding-right: 20px;">
         <strong>Backend & Database</strong>
       </td>
       <td align="left" valign="middle">
@@ -91,6 +78,7 @@
         <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white">
         <img src="https://img.shields.io/badge/Postgresql-000000?style=for-the-badge&logo=Postgresql&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white">
         <img src="https://img.shields.io/badge/API_Integration-000000?style=for-the-badge&logoColor=white">
       </td>
     </tr>
