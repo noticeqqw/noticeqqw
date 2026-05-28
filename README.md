@@ -2,6 +2,8 @@
   <img src="https://i.postimg.cc/pTkFsTD2/d292d4f6-d3aa-4fda-8f45-d56636c46402.png" width="100%" alt="Synaptara Banner"/>
 </a>
 
+<br><br>
+
 <div align="center">
   <a href="https://github.com/noticeqqw?tab=repositories"><img alt="Stars" title="Stars Profile" src="https://img.shields.io/badge/STARS-22-000000?style=for-the-badge&labelColor=000000&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiPjwvcGF0aD48L3N2Zz4=" /></a>
   &nbsp;
@@ -30,7 +32,7 @@
   <img src="https://i.postimg.cc/mgG7Z0ZV/Chat-GPT-Image-29-maa-2026-g-01-09-54.png" width="170" align="right" style="margin-left: 15px;">
   
   <h3>Top Projects</h3>
-  <a href="https://github.com/noticeqqw/task_time_tracker_api"><img src="https://img.shields.io/badge/task_time_tracker_api-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Secure file sharing, because some code needs to self-destruct gracefully.<br>
+  <a href="https://github.com/noticeqqw/task_time_tracker_api"><img src="https://img.shields.io/badge/task_time_tracker_api-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A REST API for employee time tracking — built with Java, Spring Boot, and enough tests to sleep soundly after a deploy.<br>
   <a href="https://github.com/Synaptara/Gen-Ghost_v1"><img src="https://img.shields.io/badge/Gen%20Ghost%20v1-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A Discord bot that manages my server better than Me<br>
   <a href="https://github.com/Synaptara/QNDOCS"><img src="https://img.shields.io/badge/Qn%20Docs-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; RAG-based AI to read text files for me, because reading is hard.
 
