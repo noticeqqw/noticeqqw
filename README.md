@@ -27,10 +27,10 @@
   
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
   
-  <img src="https://i.postimg.cc/HWBNy984/Chat-GPT-Image-29-maa-2026-g-01-07-09.png" width="170" align="right" style="margin-left: 15px;">
+  <img src="https://i.postimg.cc/mgG7Z0ZV/Chat-GPT-Image-29-maa-2026-g-01-09-54.png" width="170" align="right" style="margin-left: 15px;">
   
   <h3>Top Projects</h3>
-  <a href="https://github.com/Synaptara/File-ghost"><img src="https://img.shields.io/badge/FileGhost-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Secure file sharing, because some code needs to self-destruct gracefully.<br>
+  <a href="https://github.com/noticeqqw/task_time_tracker_api"><img src="https://img.shields.io/badge/task_time_tracker_api-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Secure file sharing, because some code needs to self-destruct gracefully.<br>
   <a href="https://github.com/Synaptara/Gen-Ghost_v1"><img src="https://img.shields.io/badge/Gen%20Ghost%20v1-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A Discord bot that manages my server better than Me<br>
   <a href="https://github.com/Synaptara/QNDOCS"><img src="https://img.shields.io/badge/Qn%20Docs-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; RAG-based AI to read text files for me, because reading is hard.
 
