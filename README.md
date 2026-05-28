@@ -23,7 +23,6 @@
   and occasionally argues with both. I build things that (mostly) don't break,
   and when they do — I test them first this time. QA isn't just a phase for me,
   it's a lifestyle. Bugs fear me. Deadlines... less so.
-  <br><br>
   
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
   
