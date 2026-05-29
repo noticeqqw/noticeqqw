@@ -40,7 +40,7 @@
   <br>
    
   <br>
-  <a href="https://github.com/noticeqqw"><img src="https://i.postimg.cc/6p93W21t/tech.jpg"></a>
+  <a href="https://github.com/noticeqqw"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 <br>
@@ -53,7 +53,7 @@
 <br>
 
 <div align="center">
-  <img src="https://i.postimg.cc/8PmQWYw9/Whats-App-Image-2026-03-05-at-11-05-19-PM-(1).jpg" width="100%">
+  <img src="https://i.postimg.cc/6p93W21t/tech.jpg" width="100%">
   <br>
   <br>
   <br>
