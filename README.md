@@ -36,7 +36,7 @@
 <br clear="right"/>
 
 <div align="center">
-  <img src="https://i.postimg.cc/TYF27Fn7/Whats-App-Image-2026-03-05-at-11-02-19-PM.jpg" width="100%"">
+  <img src="https://i.postimg.cc/q7vzLh82/cne.jpg" width="100%"">
   <br>
    
   <br>
@@ -65,7 +65,7 @@
       </td>
       <td align="left" valign="middle">
         <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white">
         <img src="https://img.shields.io/badge/Postgresql-000000?style=for-the-badge&logo=Postgresql&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
