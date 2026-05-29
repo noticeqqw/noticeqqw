@@ -40,7 +40,7 @@
   <br>
    
   <br>
-  <a href="https://github.com/noticeqqw"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/noticeqqw"><img src="https://i.postimg.cc/6p93W21t/tech.jpg"></a>
 </div>
 
 <br>
