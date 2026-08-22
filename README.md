@@ -35,14 +35,6 @@
 <br clear="left"/>
 <br clear="right"/>
 
-<div align="center">
-  <img src="https://i.postimg.cc/q7vzLh82/cne.jpg" width="100%"">
-  <br>
-   
-  <br>
-  <a href="https://github.com/noticeqqw"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
-
 <br>
 
 > Code is never finished. It only becomes slightly less terrible over time.
